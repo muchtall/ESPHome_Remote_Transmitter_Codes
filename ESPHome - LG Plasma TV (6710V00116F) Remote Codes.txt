@@ -1,0 +1,265 @@
+### ESPHome - LG Plasma TV (6710V00116F) Remote Codes
+
+# POWER
+JVC: data=0x20DF
+LG: data=0x20DF10EF, nbits=32
+NEC: address=0x20DF, command=0x10EF
+Pioneer: rc_code_X=0x2008
+
+# TV/VIDEO
+JVC: data=0x20DF
+LG: data=0x20DFD02F, nbits=32
+NEC: address=0x20DF, command=0xD02F
+Pioneer: rc_code_X=0x200B
+
+# COMP/RGB/DVI
+JVC: data=0x20DF
+LG: data=0x20DF19E6, nbits=32
+NEC: address=0x20DF, command=0x19E6
+Pioneer: rc_code_X=0x2098
+
+# TIMER
+JVC: data=0x20DF
+LG: data=0x20DF708F, nbits=32
+NEC: address=0x20DF, command=0x708F
+Pioneer: rc_code_X=0x200E
+
+# 1
+JVC: data=0x20DF
+LG: data=0x20DF8877, nbits=32
+NEC: address=0x20DF, command=0x8877
+Pioneer: rc_code_X=0x2011
+
+# 2
+JVC: data=0x20DF
+LG: data=0x20DF48B7, nbits=32
+NEC: address=0x20DF, command=0x48B7
+Pioneer: rc_code_X=0x2012
+
+# 3
+JVC: data=0x20DF
+LG: data=0x20DFC837, nbits=32
+NEC: address=0x20DF, command=0xC837
+Pioneer: rc_code_X=0x2013
+
+# 4
+JVC: data=0x20DF
+LG: data=0x20DF28D7, nbits=32
+NEC: address=0x20DF, command=0x28D7
+Pioneer: rc_code_X=0x2014
+
+# 5
+JVC: data=0x20DF
+LG: data=0x20DFA857, nbits=32
+NEC: address=0x20DF, command=0xA857
+Pioneer: rc_code_X=0x2015
+
+# 6
+JVC: data=0x20DF
+LG: data=0x20DF6897, nbits=32
+NEC: address=0x20DF, command=0x6897
+Pioneer: rc_code_X=0x2016
+
+# 7
+JVC: data=0x20DF
+LG: data=0x20DFE817, nbits=32
+NEC: address=0x20DF, command=0xE817
+Pioneer: rc_code_X=0x2017
+
+# 8
+JVC: data=0x20DF
+LG: data=0x20DF18E7, nbits=32
+NEC: address=0x20DF, command=0x18E7
+Pioneer: rc_code_X=0x2018
+
+# 9
+JVC: data=0x20DF
+LG: data=0x20DF9867, nbits=32
+NEC: address=0x20DF, command=0x9867
+Pioneer: rc_code_X=0x2019
+
+# 0
+JVC: data=0x20DF
+LG: data=0x20DF08F7, nbits=32
+NEC: address=0x20DF, command=0x08F7
+Pioneer: rc_code_X=0x2010
+
+# -
+JVC: data=0x20DF
+LG: data=0x20DF32CD, nbits=32
+NEC: address=0x20DF, command=0x32CD
+Pioneer: rc_code_X=0x204C
+
+# FLASHBACK
+JVC: data=0x20DF
+LG: data=0x20DF58A7, nbits=32
+NEC: address=0x20DF, command=0x58A7
+Pioneer: rc_code_X=0x201A
+
+# MUTE
+JVC: data=0x20DF
+LG: data=0x20DF906F, nbits=32
+NEC: address=0x20DF, command=0x906F
+Pioneer: rc_code_X=0x2009
+
+# VOL_UP
+JVC: data=0x20DF
+LG: data=0x20DF40BF, nbits=32
+NEC: address=0x20DF, command=0x40BF
+Pioneer: rc_code_X=0x2002
+
+# VOL_DOWN
+JVC: data=0x20DF
+LG: data=0x20DFC03F, nbits=32
+NEC: address=0x20DF, command=0xC03F
+Pioneer: rc_code_X=0x2003
+
+# CH_UP
+JVC: data=0x20DF
+LG: data=0x20DF00FF, nbits=32
+NEC: address=0x20DF, command=0x00FF
+Pioneer: rc_code_X=0x2000
+
+# CH_DOWN
+JVC: data=0x20DF
+LG: data=0x20DF807F, nbits=32
+NEC: address=0x20DF, command=0x807F
+Pioneer: rc_code_X=0x2001
+
+# SURF
+JVC: data=0x20DF
+LG: data=0x20DF7887, nbits=32
+NEC: address=0x20DF, command=0x7887
+Pioneer: rc_code_X=0x201E
+
+# INFO
+JVC: data=0x20DF
+LG: data=0x20DF55AA, nbits=32
+NEC: address=0x20DF, command=0x55AA
+Pioneer: rc_code_X=0x20AA
+
+# SAP
+JVC: data=0x20DF
+LG: data=0x20DF50AF, nbits=32
+NEC: address=0x20DF, command=0x50AF
+Pioneer: rc_code_X=0x200A
+
+# RATIO
+JVC: data=0x20DF
+LG: data=0x20DF9E61, nbits=32
+NEC: address=0x20DF, command=0x9E61
+Pioneer: rc_code_X=0x2079
+
+# CC
+JVC: data=0x20DF
+LG: data=0x20DF9C63, nbits=32
+NEC: address=0x20DF, command=0x9C63
+Pioneer: rc_code_X=0x2039
+
+# UP
+JVC: data=0x20DF
+LG: data=0x20DF02FD, nbits=32
+NEC: address=0x20DF, command=0x02FD
+Pioneer: rc_code_X=0x2040
+
+# DOWN
+JVC: data=0x20DF
+LG: data=0x20DF827D, nbits=32
+NEC: address=0x20DF, command=0x827D
+Pioneer: rc_code_X=0x2041
+
+# LEFT
+JVC: data=0x20DF
+LG: data=0x20DFE01F, nbits=32
+NEC: address=0x20DF, command=0xE01F
+Pioneer: rc_code_X=0x2007
+
+# RIGHT
+JVC: data=0x20DF
+LG: data=0x20DF609F, nbits=32
+NEC: address=0x20DF, command=0x609F
+Pioneer: rc_code_X=0x2006
+
+# OK
+JVC: data=0x20DF
+LG: data=0x20DF22DD, nbits=32
+NEC: address=0x20DF, command=0x22DD
+Pioneer: rc_code_X=0x2044
+
+# MENU
+JVC: data=0x20DF
+LG: data=0x20DFC23D, nbits=32
+NEC: address=0x20DF, command=0xC23D
+Pioneer: rc_code_X=0x2043
+
+# SOUND
+JVC: data=0x20DF
+LG: data=0x20DF4AB5, nbits=32
+NEC: address=0x20DF, command=0x4AB5
+Pioneer: rc_code_X=0x2052
+
+# VIDEO
+JVC: data=0x20DF
+LG: data=0x20DFB24D, nbits=32
+NEC: address=0x20DF, command=0xB24D
+Pioneer: rc_code_X=0x204D
+
+# EXIT
+JVC: data=0x20DF
+LG: data=0x20DFDA25, nbits=32
+NEC: address=0x20DF, command=0xDA25
+Pioneer: rc_code_X=0x205B
+
+# PIP
+JVC: data=0x20DF
+LG: data=0x20DF06F9, nbits=32
+NEC: address=0x20DF, command=0x06F9
+Pioneer: rc_code_X=0x2060
+
+# PIP_CH_DOWN
+JVC: data=0x20DF
+LG: data=0x20DF4EB1, nbits=32
+NEC: address=0x20DF, command=0x4EB1
+Pioneer: rc_code_X=0x2072
+
+# PIP_CH_UP
+JVC: data=0x20DF
+LG: data=0x20DF8E71, nbits=32
+NEC: address=0x20DF, command=0x8E71
+Pioneer: rc_code_X=0x2071
+
+# PIP_INPUT
+JVC: data=0x20DF
+LG: data=0x20DF8679, nbits=32
+NEC: address=0x20DF, command=0x8679
+Pioneer: rc_code_X=0x2061
+
+# FREEZE
+JVC: data=0x20DF
+LG: data=0x20DFA659, nbits=32
+NEC: address=0x20DF, command=0xA659
+Pioneer: rc_code_X=0x2065
+
+# ZOOM
+JVC: data=0x20DF
+LG: data=0x20DFDE21, nbits=32
+NEC: address=0x20DF, command=0xDE21
+Pioneer: rc_code_X=0x207B
+
+# SIGNAL
+JVC: data=0x20DF
+LG: data=0x20DF6996, nbits=32
+NEC: address=0x20DF, command=0x6996
+Pioneer: rc_code_X=0x2096
+
+# SWAP
+JVC: data=0x20DF
+LG: data=0x20DFC639, nbits=32
+NEC: address=0x20DF, command=0xC639
+Pioneer: rc_code_X=0x2063
+
+# ADJUST
+JVC: data=0x20DF
+LG: data=0x20DFD32C, nbits=32
+NEC: address=0x20DF, command=0xD32C
+Pioneer: rc_code_X=0x20CB

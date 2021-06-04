@@ -1,0 +1,126 @@
+### ESPHome - Sony BluRay Player (RMT-B118A) Remote Codes
+
+# POWER
+Sony: data=0x000A8B47, nbits=20
+
+# OPEN/CLOSE
+Sony: data=0x00068B47, nbits=20
+
+# TV_INPUT
+Sony: data=0x00000A50, nbits=12
+
+# TV_POWER
+Sony: data=0x00000A90, nbits=12
+
+# 1
+Sony: data=0x00000B47, nbits=20
+
+# 2
+Sony: data=0x00080B47, nbits=20
+
+# 3
+Sony: data=0x00040B47, nbits=20
+
+# 4
+Sony: data=0x000C0B47, nbits=20
+
+# 5
+Sony: data=0x00020B47, nbits=20
+
+# 6
+Sony: data=0x000A0B47, nbits=20
+
+# 7
+Sony: data=0x00060B47, nbits=20
+
+# 8
+Sony: data=0x000E0B47, nbits=20
+
+# 9
+Sony: data=0x00010B47, nbits=20
+
+# 0
+Sony: data=0x00090B47, nbits=20
+
+# VOL_UP
+Sony: data=0x00000490, nbits=12
+
+# VOL_DOWN
+Sony: data=0x00000C90, nbits=12
+
+# AUDIO
+Sony: data=0x00026B47, nbits=20
+
+# SUBTITLE
+Sony: data=0x000C6B47, nbits=20
+
+# DISPLAY
+Sony: data=0x00082B47, nbits=20
+
+# YELLOW
+Sony: data=0x00096B47, nbits=20
+
+# BLUE
+Sony: data=0x00066B47, nbits=20
+
+# RED
+Sony: data=0x000E6B47, nbits=20
+
+# GREEN
+Sony: data=0x00016B47, nbits=20
+
+# UP
+Sony: data=0x0009CB47, nbits=20
+
+# DOWN
+Sony: data=0x0005CB47, nbits=20
+
+# LEFT
+Sony: data=0x000DCB47, nbits=20
+
+# RIGHT
+Sony: data=0x0003CB47, nbits=20
+
+# OK
+Sony: data=0x000BCB47, nbits=20
+
+# RETURN
+Sony: data=0x000C2B47, nbits=20
+
+# OPTIONS
+Sony: data=0x000FCB47, nbits=20
+
+# HOME
+Sony: data=0x00042B47, nbits=20
+
+# PREV
+Sony: data=0x000EAB47, nbits=20
+
+# PAUSE
+Sony: data=0x00098B47, nbits=20
+
+# NEXT
+Sony: data=0x0006AB47, nbits=20
+
+# REW
+Sony: data=0x000D8B47, nbits=20
+
+# PLAY
+Sony: data=0x00058B47, nbits=20
+
+# FFW
+Sony: data=0x00038B47, nbits=20
+
+# NETFLIX
+Sony: data=0x000D2B47, nbits=20
+
+# STOP
+Sony: data=0x00018B47, nbits=20
+
+# SEN
+Sony: data=0x00032B47, nbits=20
+
+
+
+
+
