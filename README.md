@@ -1,2 +1,2 @@
-# ESPHome_Remote_Transmitter_Codes
+# ESPHome Remote Transmitter Codes
 A collection of ESPHome captured Remote Transmitter codes
