@@ -1,0 +1,66 @@
+### ESPHome - Vizio Sound Stand XRS321 Remote Codes
+
+# INPUT
+LG: data=0x00FF22DD, nbits=32
+NEC: address=0xFF00, command=0xBB44
+Pioneer: rc_code_X=0x0044
+
+# BLUETOOTH
+LG: data=0x00FF44BB, nbits=32
+NEC: address=0xFF00, command=0xDD22
+Pioneer: rc_code_X=0x0022
+
+# POWER
+LG: data=0x00FF02FD, nbits=32
+NEC: address=0xFF00, command=0xBF40
+Pioneer: rc_code_X=0x0040
+
+# VOL_UP
+LG: data=0x00FF827D, nbits=32
+NEC: address=0xFF00, command=0xBE41
+Pioneer: rc_code_X=0x0041
+
+# VOL_DOWN
+LG: data=0x00FFA25D, nbits=32
+NEC: address=0xFF00, command=0xBA45
+Pioneer: rc_code_X=0x0045
+
+# FORWARD
+LG: data=0x00FFD12E, nbits=32
+NEC: address=0xFF00, command=0x748B
+Pioneer: rc_code_X=0x008B
+
+# BACK
+LG: data=0x00FF51AE, nbits=32
+NEC: address=0xFF00, command=0x758A
+Pioneer: rc_code_X=0x008A
+
+# PLAY_PAUSE
+LG: data=0x00FF718E, nbits=32
+NEC: address=0xFF00, command=0x718E
+Pioneer: rc_code_X=0x008E
+
+# TVOL
+LG: data=0x00FF32CD, nbits=32
+NEC: address=0xFF00, command=0xB34C
+Pioneer: rc_code_X=0x004C
+
+# TREBLE
+LG: data=0x00FFC03F, nbits=32
+NEC: address=0xFF00, command=0xFC03
+Pioneer: rc_code_X=0x0003
+
+# TSHD
+LG: data=0x00FF0AF5, nbits=32
+NEC: address=0xFF00, command=0xAF50
+Pioneer: rc_code_X=0x0050
+
+# BASS
+LG: data=0x00FF40BF, nbits=32
+NEC: address=0xFF00, command=0xFD02
+Pioneer: rc_code_X=0x0002
+
+# MUTE
+LG: data=0x00FF12ED, nbits=32
+NEC: address=0xFF00, command=0xB748
+Pioneer: rc_code_X=0x0048
