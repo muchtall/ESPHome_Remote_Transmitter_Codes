@@ -1,4 +1,4 @@
-### 24-Key LED Light Remote
+### Magic Lighting 24-Key LED Light Remote
 # BRIGHTNESS_UP
 LG: data=0x00FFA05F, nbits=32
 NEC: address=0xFF00, command=0xFA05
